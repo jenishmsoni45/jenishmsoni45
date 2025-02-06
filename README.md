@@ -1,4 +1,3 @@
-# jenishmsoni45
 # Hi there, I'm Jenish Soni 👋
 
 ## Data Analyst | AI Enthusiast | Computer Science Student
