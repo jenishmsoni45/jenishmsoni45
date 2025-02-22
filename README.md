@@ -50,11 +50,6 @@
 
 ### 🚀 Professional Experience
 
-#### **Early EID Program** - Citi Financial Services, Toronto, ON  
-**Dec 2024 - Feb 2025**  
-- Leveraged **SQL, Power BI, Java, and Python** to analyze financial data and develop ETL pipelines.
-- Enhanced problem-solving skills through mentor-led career coaching and technical training.
-- Completed Citi’s **Technology Forage** job simulation, focusing on data visualization and analysis.
 
 #### **Business Data Analyst Intern** - Softilox Innovations Inc., Toronto, ON  
 **May 2024 - Sep 2024**  
