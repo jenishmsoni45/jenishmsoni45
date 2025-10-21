@@ -1,6 +1,6 @@
 # Hi there, I'm Jenish Soni 👋
 
-## Data Analyst | AI Enthusiast | Computer Science Student
+## Software Developer | Computer Science Student
 
 ### About Me
 - 🎓 Pursuing a **Bachelor of Science (Honors) in Computer Science (Co-op)** at **Toronto Metropolitan University (Ryerson)**.
