@@ -19,6 +19,12 @@ Before that I interned at TD Bank and Compugen.
 - **risk-engine** (Python, Redis, Kafka): an allow/hold/block decision engine over a
   ledger's event stream. p99 of 6 ms at 800 decisions/s.
 
+## Up next
+
+- **eval-harness** (Python, Inspect): an evaluation harness for coding agents, with sandboxed
+  tasks, hidden-test grading and checks for agents that edit tests instead of fixing the bug.
+  In design; build starts after the job queue's ops console.
+
 ## Tools
 
 Java, Python, Go, Rust, SQL · PostgreSQL, Kafka, Redis · Docker, Kubernetes, Terraform, GitHub Actions
